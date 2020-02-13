@@ -1,0 +1,9 @@
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\bin\Release\ListView示例.exe.config
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\bin\Release\ListView示例.exe
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\bin\Release\ListView示例.pdb
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\obj\Release\ListView示例.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\obj\Release\ListView示例.Form1.resources
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\obj\Release\ListView示例.Properties.Resources.resources
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\obj\Release\ListView示例.csproj.GenerateResource.Cache
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\obj\Release\ListView示例.exe
+C:\Users\Administrator.DESKTOP-7R28DS8\Desktop\3_Csharp\1_CODE\ListView示例\ListView示例\obj\Release\ListView示例.pdb
